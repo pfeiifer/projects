@@ -1,0 +1,42 @@
+abbreviation,full_name,difficulty
+REPL,Read Evaluate Print Loop,medium
+API,Application Programming Interface,medium
+SSH,Secure Shell,medium
+DHCP,Dynamic Host Configuration Protocol,hard
+BIOS,Basic Input Output System,hard
+IEEE,Institute of Electrical and Electronics Engineers,hard
+VPC,Virtual Private Cloud,hard
+RISC,Reduced Instruction Set Computer,hard
+CISC,Complex Instruction Set Computer,hard
+ASCII,American Standard Code for Information Interchange,hard
+SaaS,Software as a Service,hard
+DNS,Domain Name System,medium
+JSON,JavaScript Object Notation,hard
+SQL,Structured Query Language,medium
+HTTP,Hypertext Transfer Protocol,medium
+API,Application Programming Interface,medium
+USB,Universal Serial Bus,medium
+URL,Uniform Resource Locator,medium
+HTML,Hypertext Markup Language,easy
+GUI,Graphical User Interface,easy
+CLI,Command Line Interface,easy
+UEFI,Unified Extensible Firmware Interface,hard
+RAM,Random Access Memory,easy
+ROM,Read Only Memory,easy
+CPU,Central Processing Unit,easy
+IP,Internet Protocol,easy
+IT,Information Technology,easy
+OS,Operating System,easy
+IDE,Integrated Development Environment,easy
+OOP,Object Oriented Programming,easy
+SSD,Solid State Drive,easy
+ALU,Arithmetic Logic Unit,easy
+CGI,Common Gateway Interface,extra-hard
+RCE,Remote Code Execution,hard
+URI,Uniform Resource Identifier,easy
+CMOS,Complementary Metal Oxide Semiconductor,medium
+SCADA,Supervisory Control and Data Acquisition, extra-hard
+PLC,Programmable Logic Controller,hard
+HTA,HTML Application,hard
+CSV,Comma Separated Values,medium
+
